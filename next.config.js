@@ -10,10 +10,6 @@ const nextConfig = {
           {
             key: 'x-test-me',
             value: 'works',
-          },
-          {
-            key: 'content-type',
-            value: '*/*',
           }
         ]
       }
